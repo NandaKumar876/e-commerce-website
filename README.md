@@ -16,7 +16,6 @@ A luxury, high-performance e-commerce website with dark theme, liquid ether anim
 - **Scroll Animations** - Elements fade in as you scroll
 - **Product Filters** - Filter by category
 - **Cart Drawer** - Smooth slide-in animation
-- **Quick View Modal** - Product preview without leaving page
 - **Wishlist** - Save favorite products
 - **Responsive Design** - Works on all devices
 
